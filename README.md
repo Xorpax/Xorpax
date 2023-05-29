@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xorpax
-- 👀 I’m interested in software development and gaming
+- 👀 I’m interested in software development, game development and cybersecurity
 - 🌱 I’m currently learning Python 🐍
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord Kylo Ren#6933
