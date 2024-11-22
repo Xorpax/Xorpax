@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xorpax
-- 👀 I’m interested in software development, game development and cybersecurity
-- 🌱 I’m currently learning Python 🐍
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord Kylo Ren6933
 
