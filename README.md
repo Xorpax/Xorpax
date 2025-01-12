@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Networking
 - 📫 How to reach me: Discord kyloren6933
   
-*New Project Underway*
+*Just Finished: FitArchive*
 
 <!--- 💞️ I’m looking to collaborate on ...--->
 <!---
